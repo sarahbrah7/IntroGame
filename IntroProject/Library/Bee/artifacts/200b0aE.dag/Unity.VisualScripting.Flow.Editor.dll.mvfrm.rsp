@@ -5,6 +5,7 @@ Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_DE1D13444BAAFBE7.mvf
 Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_BD0E97F52A0DF729.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_AA3B5DF2776E59D2.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_79746E5030301F94.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEditor.WebGL.Extensions.dll_3466E677FBBA156A.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_30409B0B9DAF2544.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_7799BC2A8E502D12.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.DeviceSimulatorModule.dll_2681FE86387B6B4F.mvfrm
@@ -90,9 +91,9 @@ Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_0CC25C9BCBA9984A.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_11096AA5C78C16A6.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_3F811FA054E3E5A8.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.OSXStandalone.Extensions.dll_3BF83013FFBA1659.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_7A247D6A0E2EAEA2.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_D05CBD67D1A8AB73.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.IonicZip.dll_99FB4C6B918A742D.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.YamlDotNet.dll_8BBD11829E0B9D5F.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.TextureAssets.dll_22DB3AD65ED8FB57.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_3D2A3863CED4AD7E.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_B9854A892FB9AAD4.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_1644B847E0956B21.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.IonicZip.dll_FB7C809194838FDB.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.YamlDotNet.dll_3F4B4799EFDB7A11.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.TextureAssets.dll_D66970EDB0A8D809.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_F0B86E7B20A48A30.mvfrm
